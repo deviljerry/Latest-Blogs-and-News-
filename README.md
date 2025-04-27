@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/f223298-nuedupks-projects/v0-blogs](https://vercel.com/f223298-nuedupks-projects/v0-blogs)**
+**https://v0-blogs-iota.vercel.app/**
 
 ## Build your app
 
